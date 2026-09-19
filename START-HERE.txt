@@ -1,0 +1,28 @@
+FEEDPETSWELL — WEBSITE UPDATE
+
+The displayed name is FeedPetsWell. The .com domain can be connected later.
+Do not enter a custom domain in GitHub Pages until you own it.
+
+RENAME THE GITHUB REPOSITORY FIRST
+1. Open https://github.com/ctnb427-debug/CATDOG/settings
+2. Under Repository name, replace CATDOG with FeedPetsWell.
+3. Click Rename.
+
+UPLOAD THE REDESIGN
+4. In the renamed repository, select Code > Add file > Upload files.
+5. Extract this ZIP. Upload its CONTENTS, including the assets folder.
+   Do not upload the ZIP itself or an enclosing folder.
+6. Commit the changes to main.
+7. Check Settings > Pages and retain the existing publishing branch/folder.
+8. Wait for the Pages deployment to complete. The intended free address is:
+   https://ctnb427-debug.github.io/FeedPetsWell/
+
+Renaming a repository can change its Pages address; do not rely on old CATDOG page links redirecting. Update shared links after the new address works.
+
+PREVIEW
+Open index.html from the extracted folder. A standalone FeedPetsWell-Preview.html is also supplied separately.
+
+STATUS
+The connected GitHub integration denied write access. The repository has NOT been renamed and the live site has NOT been updated by this delivery.
+AdSense is not active. See ADSENSE-SETUP.md for remaining account and consent setup.
+Existing downloadable PDFs are retained; their internal branding has not been revised.
