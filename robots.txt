@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ctnb427-debug.github.io/FeedPetsWell/sitemap.xml
+Sitemap: https://feedpetswell.com/sitemap.xml
