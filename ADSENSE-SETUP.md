@@ -8,7 +8,7 @@ Before requesting review / enabling advertising:
 
 1. Confirm the Gumroad listing's current $7 price, currency and product description. The supplied cover is used unaltered; surrounding copy makes no treatment or savings guarantees.
 2. Confirm the owner is comfortable using the public GitHub issue tracker for site feedback; a dedicated public support email would offer an easier private contact option. Never publish private contact information without authorisation.
-3. Add the appropriate site in AdSense. This project lives at `/FeedPetsWell/` on `ctnb427-debug.github.io`; check domain eligibility and the root homepage in the actual AdSense flow. A custom domain or root-site arrangement may be needed. Do not assume project-path submission is supported.
+3. Add `feedpetswell.com` as the site in AdSense. The custom domain is active and is the canonical address used by the live pages, sitemap and robots file.
 4. Obtain the actual publisher ID / verification snippet from the user's AdSense account. Do not insert a fabricated publisher ID.
 5. Configure Google's Privacy & messaging certified CMP (or another Google-certified CMP) for relevant visitors before activating advertising. The existing cookie dialog controls Analytics only; it is NOT a certified advertising CMP.
 6. Add the publisher-specific ads.txt record at the serving domain ROOT, not merely at `/FeedPetsWell/ads.txt`. This generally requires the user-site repository or a custom-domain configuration. Verify the public root response.
