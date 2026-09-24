@@ -17,3 +17,12 @@
 
 /* Clickable Amazon hotspots on final Picks artwork */
 .picks-image-wrap{position:relative}.picks-hotspots{position:absolute;inset:0;pointer-events:none}.pick-hotspot{position:absolute;pointer-events:auto;display:block;bottom:12.2%;height:6.8%;width:20.5%;border-radius:10px}.pick-hotspot.hydration{left:2.2%}.pick-hotspot.play{left:26.1%}.pick-hotspot.training{left:50.3%}.pick-hotspot.grooming{left:74.2%}.pick-hotspot:focus-visible{outline:3px solid #173c31;outline-offset:2px}.shop-section>.picks-disclosure,.shop-section>.shop-grid{display:none!important}
+
+/* SEO headline update: keyword headline styled as the small label, tagline keeps the big display look */
+h1.eyebrow{font-size:12px;font-weight:800;letter-spacing:1.6px;line-height:1.4;margin:0;text-transform:uppercase}
+.intro h1.eyebrow,.article h1.eyebrow{font-size:12px;letter-spacing:1.6px;line-height:1.4;margin:0}
+.display-title{font-weight:800;color:inherit}
+.intro p.display-title{font-size:clamp(38px,4.6vw,62px);line-height:1.08;letter-spacing:-2.7px;margin:12px 0 18px;max-width:none;color:inherit}
+.intro p.display-title span{color:var(--blue)}
+.article p.display-title{font-size:clamp(36px,5vw,58px);line-height:1.12;letter-spacing:-2px;margin:15px 0 35px;color:inherit}
+@media(max-width:700px){.intro p.display-title{font-size:42px;letter-spacing:-2px}.article p.display-title{font-size:39px}}
